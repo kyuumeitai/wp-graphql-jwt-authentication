@@ -1,5 +1,5 @@
 {
-  "name": "wp-graphql/wp-graphql-jwt-authentication",
+  "name": "kyuumeitai/wp-graphql-jwt-authentication",
   "description": "JWT Authentication for WPGraphQL",
   "type": "wordpress-plugin",
   "version": "0.3.0",
@@ -24,7 +24,7 @@
   },
   "autoload": {
     "psr-4": {
-      "WPGraphQL\\JWT_Authentication\\": "src/"
+      "Kyuumeitai\\JWT_Authentication\\": "src/"
     },
     "classmap": [
       "src/"
